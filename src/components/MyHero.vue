@@ -6,10 +6,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    
-  }
+  name: 'MyHero'
 }
 </script>
 
