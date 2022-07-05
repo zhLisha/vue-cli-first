@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <img src="" alt="">
+    <img src="https://www.bootstrapdash.com/wp-content/uploads/2020/01/BD-jumbotron-examples.jpg">
   </div>
 </template>
 
@@ -9,7 +8,7 @@
 export default {
   name: 'HelloWorld',
   props: {
-    msg: String
+    
   }
 }
 </script>
